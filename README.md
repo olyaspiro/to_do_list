@@ -1,7 +1,6 @@
 To-Do List App (Python CLI)
 
-Description:
-This is a simple command-line To-Do List application built with Python. It allows users to manage their daily tasks through a menu interface. 
+I have built a simple command-line To-Do List application with Python. It allows users to manage their daily tasks through a menu interface. 
 The app demonstrates Python fundamentals like loops, conditionals, functions, lists, and error handling.
 
 Features:
