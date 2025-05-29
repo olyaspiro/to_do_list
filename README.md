@@ -10,5 +10,6 @@ Features:
 - Quit: Exits the application safely.
 - Error Handling: Alerts the user about invalid input, empty lists, or out-of-range task selections.
 
-I organized my code into functions to improve clarity and maintainability, and used descriptive function names and add comments/docstrings where necessary.
-I thoroughly tested my application, considering edge cases such as empty lists and invalid input.
+I organized my code into functions to improve clarity and maintainability.
+I captured and validated user input using input() and try/except.
+I thoroughly tested my application, writing readable and maintainable logic for CLI applications.
